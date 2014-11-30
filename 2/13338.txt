@@ -1,0 +1,1 @@
+William Randolph Hearst

@@ -1,0 +1,1 @@
+provides a fresh view of an old type

@@ -1,0 +1,1 @@
+, FearDotCom should log a minimal number of hits
