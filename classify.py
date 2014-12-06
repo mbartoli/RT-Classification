@@ -29,7 +29,7 @@ def main(path_to_data):
 	pipeline = Pipeline([('vect', CountVectorizer()),('tfidf', TfidfTransformer()),('clf', LinearSVC(C=1000)),])
 	_ = pipeline.fit(dataset.data, dataset.target)
 	predicted = pipeline.predict(docs_test)
-	np.mean(predicted == dataset.target)
+	print np.mean(predicted == dataset.target)
 	
 	"""
 	parameters = {
