@@ -1,1 +1,0 @@
-Frida gets the job done .

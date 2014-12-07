@@ -1,1 +1,0 @@
-fails to keep 80 minutes from seeming like 800

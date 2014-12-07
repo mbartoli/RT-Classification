@@ -1,1 +1,0 @@
-from laugh-out-loud

@@ -1,1 +1,0 @@
-behave like adults and everyone

@@ -1,1 +1,0 @@
-A glib but bouncy bit

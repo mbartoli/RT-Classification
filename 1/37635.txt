@@ -1,1 +1,0 @@
-disconnects every 10 seconds
